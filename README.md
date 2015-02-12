@@ -205,3 +205,4 @@ Create a view named `app/views/authentication/new.html.erb` with the following c
 
 <% end %>
 ```
+# rails-practice-add-authentication
